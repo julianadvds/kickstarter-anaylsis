@@ -7,9 +7,9 @@ The purpose of this analysis was to analyze Kickstarter data to understand how l
 ## Analysis and Challenges
 The analysis was performed on data from US Kickstarter campaigns from 2010-2017.  Two analysis were performed on the data set.  
 ### Analysis of Outcomes Based on Launch Date
-The first was analyzing the outcome of different Theater kickstarter campaigns by the month of launch date [see image 1]. 
+The first was analyzing the outcome of different Theater kickstarter campaigns by the month of launch date [https://github.com/julianadvds/kickstarter-anaylsis/blob/main/Theater_Outcomes_vs_Launch.png]. 
 ### Analysis of Outcomes Based on Goals
- The second analysis performed on the data set analyzed the success outcome Theater and more specifically, Play campaigns based on the target goal.  The analysis compared the percentage of successful, failed and cancelled kickstarter campaigns grouped together by: less than $1000, $1000-$4999 and then in $5000 increments up to $50 000, and the final increment being >$50 000.  See [Image 2] for analysis.  
+ The second analysis performed on the data set analyzed the success outcome Theater and more specifically, Play campaigns based on the target goal.  The analysis compared the percentage of successful, failed and cancelled kickstarter campaigns grouped together by: less than $1000, $1000-$4999 and then in $5000 increments up to $50 000, and the final increment being >$50 000.  See [https://github.com/julianadvds/kickstarter-anaylsis/blob/main/Outcomes_vs_Goals.png] for analysis.  
 ### Challenges and Difficulties Encountered
 While performing the analysis, it is possible that challenges may arise when ensuring that only the relevant data is being analyzed.  For example, in our analysis, we only reviewed campaings for Theater plays in the US.  If that selection was not done ahead of time, it is possible it would have changed the data and interpretation of the results.  In addition, in image 2, the percentage of canceled campaigns remains zero across all goal categories.  This is an easy data point to miss on the visualization.
 ## Results
